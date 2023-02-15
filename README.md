@@ -1,20 +1,49 @@
-# Tic Tac Toe Game
 
-This is a single-player Tic Tac Toe game built with HTML, CSS and JavaScript.
+# Awesome Tic Tack Toe Multiplayer Game
 
-You can play against the computer and the game will provide you with a challenge.
+Build with html, css and vanilla Javascript
+
+
+## Authors
+
+- [@Sakshi](https://github.com/SakshiIngle1912)
+
 
 ## Features
 
-* Responsive design
-* Realistic AI
-* Minimalistic UI
-* Undo option
+* user-friendly interface
+* responsive  design
+* 2 player mode
+* keeps score
+* keep draw counts
 
-## Getting Started
 
-Clone this repository and open the `index.html` file in your browser. You can then start playing the game.
+## 🚀 About Me
 
-## License
+Name: Sakshi Ingle
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Age: 28
+
+Location: London, United Kingdom
+
+Profession: Full Stack Developer 
+
+Experience: 5 years 
+
+Specialties: React, Node.js, HTML/CSS, JavaScript, Ruby on Rails, SQL 
+
+Education: Bachelor's Degree in Computer Science 
+Certifications: Certified Full Stack Developer 
+Bio: John is a passionate full stack developer with 5 years of experience in developing web applications. He is extremely competent with React, Node.js, HTML/CSS, JavaScript, Ruby on Rails, and SQL. He holds a Bachelor's Degree in Computer Science and is a Certified Full Stack Developer. He is always looking for new challenges to hone his skills and work on interesting projects.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
